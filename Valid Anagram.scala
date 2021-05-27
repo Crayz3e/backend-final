@@ -10,4 +10,4 @@ object Solution {
         
         return false;
     }
-}ы
+}
